@@ -1,4 +1,4 @@
-# Gesture-Controlled 3D Viewer
+# 3D Gesture Control
 
 Control 3D models using hand gestures detected via your webcam. This project translates specific hand gestures into mouse movements and actions, allowing interaction with 3D modeling software or web-based 3D viewers.
 
